@@ -1,0 +1,81 @@
+body{
+    background-color: pink;
+}
+
+H1{
+    font:italic;
+    text-shadow: 10px 7px 10px purple;
+    text-align: center;
+}
+
+
+/* Clases */
+.imagen{
+    width: 250px;
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+.seccion1{
+    margin: auto;
+    width: 1250px;
+    padding: 10px;
+    height: 550px
+}
+.seccion2{
+    background-color: #FFDCE2;
+    margin: auto;
+    width: 1250px;
+    padding: 11px;
+    height: 855px;
+    box-shadow: 5px 10px 1px purple;
+}
+.seccion3{
+    margin: auto;
+    width: 1250px;
+    padding: 10px;
+    height: 120px
+}
+.contenedor1{
+    width: 306px;
+    height: 850px;
+    float: left;
+    margin: auto;
+    background-color: #ffeae5;
+    border-style: dotted;
+    border-color: purple;
+
+}
+.subtitulo{
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+}
+.subtitulo2{
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+    margin-left: 80%;
+}
+.parrafo1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    padding: 5px;
+}
+.nombre{
+ text-align: center;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-size: 25px;
+}
+.fecha{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+    text-align: center;
+
+}
+.informacion{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    padding: 15px;
+}
+
